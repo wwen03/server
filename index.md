@@ -1,3 +1,3 @@
-# This web map is developed for visualization
+# This repository is developed for data storage
 
-Welcome to GBR4Reefs Map
+Welcome to Server
